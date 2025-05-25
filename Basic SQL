@@ -1,3 +1,4 @@
 This file contains some basic SQL queries
  
 1. select * from table name
+2. Insert into TableName( column names) (values)
